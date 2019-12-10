@@ -1,0 +1,22 @@
+{
+  "name": "prismic_trial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaZsnes/prismic_trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaZsnes/prismic_trial/issues"
+  },
+  "homepage": "https://github.com/DeltaZsnes/prismic_trial#readme",
+  "dependencies": {
+    "prismic-dom": "^2.1.0",
+    "prismic-javascript": "^2.1.3"
+  }
+}
